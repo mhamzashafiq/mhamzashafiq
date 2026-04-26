@@ -46,13 +46,14 @@ Download from TikTok, Instagram, Facebook, Sora, YouTube. No watermark, HD, no r
 <tr>
 <td width="50%" valign="top">
 
-#### 🎥 Storybox
+#### 🎥 Shortvo
 
 **Short-Drama Streaming App**
 
 Flutter app + Node backend. Stripe + IAP / RevenueCat, JWT auth, encrypted secrets, custom email/OAuth, FCM push.
 
 `Flutter` · `Node.js` · `MongoDB` · `Stripe` · `RevenueCat`
+🔗 [shortvo.com](https://www.shortvo.com/)
 
 </td>
 <td width="50%" valign="top">
