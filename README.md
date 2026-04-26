@@ -177,18 +177,21 @@ Real-time host/viewer rooms, WebRTC, multi-gateway payments (Stripe / Razorpay /
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mhamzashafiq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzashafiq&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzashafiq&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzashafiq&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamzashafiq&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%E2%80%94%20All%20Repos" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamzashafiq&theme=tokyo-night&hide_border=true&area=true" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mhamzashafiq&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
+
+> ℹ️ Most production code is in private repos (Hyrix, SavePanda, Storybox, MT Creators Academy). Public commit/language stats reflect open-source contributions only.
 
 ---
 
